@@ -41,7 +41,5 @@ Testing images: 624
 📁 File Structure
 📦 pneumonia-detection-cnn
  ┣ 📜 README.md
- 
  ┣ 📜 Disease_Detection_Pneumonia.ipynb
- 
  ┗ 📂 sample_results 
