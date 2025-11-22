@@ -39,10 +39,11 @@ Training images: 5216
 Testing images: 624
 
 📁 File Structure
-📦 pneumonia-detection-cnn
 
- ┣ 📜 README.md
+📦 Early-Disease-Detection-for-Pneumonia
+
+ ┣ 📂 sample_results 
  
  ┣ 📜 Disease_Detection_Pneumonia.ipynb
  
- ┗ 📂 sample_results 
+ ┗ 📜 README.md
